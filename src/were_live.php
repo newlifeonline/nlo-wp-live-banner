@@ -1,6 +1,6 @@
 <?php
    /*
-   Plugin Name: We're Life
+   Plugin Name: We're Live
    Plugin URI: https://newlifexn.com
    description: shows were live banner
    Version: 0.1
