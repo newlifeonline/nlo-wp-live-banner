@@ -25,7 +25,7 @@ class LiveBanner {
 
 	public function check_go_live() 
 	{
-		return date('w') > 0 && date('w') < 7;
+		return date('w') == 0 || date('w') == 7;
 	}
 
 	public function get_go_live_banner() 
